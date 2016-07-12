@@ -1,0 +1,139 @@
+body {
+		background-color: #9db0bf;
+		text-align:center;
+	}
+#cialo {
+         background:white;
+         margin:0 auto;
+         padding:0 0px 0 0px;
+         width:1000px;
+		 min-height:100%;
+         text-align:left;
+         clear: both;   
+      }
+#buttonglowny {
+         background: url(obrazki/naglowek_wynajem.png) no-repeat;
+		 width:1000px;
+		 height:400px;
+		      }
+	   
+#menu    {
+        width: 1000px;
+		height: 140px;
+		margin: 0;
+	    padding: 0;
+	   }	
+ul, ul li {
+	display: block;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	float: left;
+} 
+#kontakt {
+        background-image: url("obrazki/kontakt.png");
+		background-repeat: no-repeat;
+		float:left;
+		height: 70px;
+		width: 250px;
+		cursor: pointer;
+		display: inline-block;
+		margin: 0;
+	    padding: 0;
+       }
+	   
+#kontakt:hover {
+        background-image: url("obrazki/kontakt_dark.png");
+		background-repeat: no-repeat;
+		float:left;
+		height: 70px;
+		width: 250px;
+		cursor: pointer;
+		display: inline-block;
+		margin: 0;
+	    padding: 0;
+       }
+
+	   
+#rezerwacja {
+        background-image: url("obrazki/rezerwacja.png");
+		background-repeat: no-repeat;
+		float:left;
+		height: 70px;
+		width: 250px;
+		cursor: pointer;
+		display: inline-block;
+		margin: 0;
+	    padding: 0;
+       }
+	   
+#rezerwacja:hover {
+        background-image: url("obrazki/rezerwacja_dark.png");
+		background-repeat: no-repeat;
+		float:left;
+		height: 70px;
+		width: 250px;
+		cursor: pointer;
+		display: inline-block;
+		margin: 0;
+	    padding: 0;
+       }
+	   
+#rejestracja {
+        background-image: url("obrazki/rejestracja.png");
+		background-repeat: no-repeat;
+		float:left;
+		height: 70px;
+		width: 250px;
+		cursor: pointer;
+		display: inline-block;
+		margin: 0;
+	    padding: 0;
+       }
+	   
+#rejestracja:hover {
+        background-image: url("obrazki/rejestracja_dark.png");
+		background-repeat: no-repeat;
+		float:left;
+		height: 70px;
+		width: 250px;
+		cursor: pointer;
+		display: inline-block;
+		margin: 0;
+	    padding: 0;
+       }
+	   
+#wyslij_email {
+        background-image: url("obrazki/wyslij_email.png");
+		background-repeat: no-repeat;
+		float:left;
+		height: 70px;
+		width: 250px;
+		cursor: pointer;
+		display: inline-block;
+		margin: 0;
+	    padding: 0;
+       }
+	   
+#wyslij_email:hover {
+        background-image: url("obrazki/wyslij_email_dark.png");
+		background-repeat: no-repeat;
+		float:left;
+		height: 70px;
+		width: 250px;
+		cursor: pointer;
+		display: inline-block;
+		margin: 0;
+	    padding: 0;
+       }
+	   
+
+#formularz {
+        margin-top: 150px;
+       }
+#panellogowania {
+        float: right; 
+       }
+
+
+
